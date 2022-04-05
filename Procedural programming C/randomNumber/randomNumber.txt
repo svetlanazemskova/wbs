@@ -1,0 +1,2 @@
+1. Fill an array with random numbers from 1 to 10.
+2. Find min and max

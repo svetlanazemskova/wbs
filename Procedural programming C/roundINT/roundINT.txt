@@ -1,0 +1,9 @@
+Schreiben Sie bitte zunächst die folgende Funktion:
+
+Name: ………….... rundeINT
+Übergabewerte: … 2 Integer n und e
+Funktionalität: ..…. rundet n auf ein Vielfaches von „10 hoch e“
+Rückgabewert: ….. der gerundete Wert
+
+1236 -> "10 hoch 1" -> 1240
+1236 -> "10 hoch 2" -> 1200

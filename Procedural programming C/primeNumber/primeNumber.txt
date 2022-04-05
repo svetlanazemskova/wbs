@@ -1,0 +1,25 @@
+C Program to check whether a number is Prime (return 1) or Not (return 0)
+
+
+Schreiben Sie bitte zunächst die folgende Funktion:
+
+Name: ……….…...… istPrimzahl
+Übergabewerte: .… 1 Integer n
+Funktionalität: …… ermittelt, ob n eine Primzahl ist
+Rückgabewert: .….. 0, falls n KEINE Primzahl ist
+                                  1, falls n EINE Primzahl ist
+
+
+Schreiben Sie anschließend bitte auch die folgende Funktion:
+
+Name: ……….…...… istPrimzahlZwilling
+Übergabewerte: .… 1 Integer n
+Funktionalität: …… ermittelt, ob n und n+2 Primzahlen sind
+Rückgabewert: .….. 0, falls n und n+2 nicht beides Primzahlen sind
+                                  1, falls n und n+2 Primzahlen sind
+
+
+2 Hinweise
+
+a)	Verwenden Sie bitte die erste Funktion innerhalb der zweiten Funktion. (Sie können also die Funktionalität der zweiten Funktion umsetzen, indem Sie innerhalb der zweiten Funktion die erste aufrufen.)
+b)	„Experten“ könnten auf den Gedanken kommen, die zweite Funktion mit Hilfe von komplexen Bedingungen (oder ersatzweise trickreich durch verschachtelte Verzweigungen) umzusetzen. Da wir beide Themenfelder erst später behandeln werden, sollte der Ehrgeiz darin bestehen, ohne diese Techniken auszukommen.
